@@ -22,10 +22,11 @@ if( __name__ == "__main__"):
             # obtain audio from the microphone
             with sr.Microphone() as source:
                 print("Listening....")
-                audio = r.listen(source,timeout=2,phrase_time_limit=5)
+                audio = r.listen(source,timeout=2,phrase_time_limit=1)
 
             command = r.recognize_google(audio) # recognize speech using Google.
-            print(command)
+            if(command.lower() == "luna"):
+                speak("Yes boss!!")
 
         except Exception as e:
             print(f"Error...{format(e)}.")
