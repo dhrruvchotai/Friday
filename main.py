@@ -55,3 +55,4 @@ if __name__ == "__main__":
             print(f"Request error; check your internet connection: {e}")
         except Exception as e:
             print(f"Unexpected error: {e}")
+
