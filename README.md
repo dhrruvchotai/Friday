@@ -1,7 +1,3 @@
-Here's a more professional and polished version of your GitHub project description with formal symbols and formatting:
-
----
-
 # **Friday – A Virtual Assistant** ⚙️
 
 **Friday** is a Python-based virtual assistant inspired by the AI from *Iron Man*. This project integrates various APIs and tools to provide an interactive, voice-controlled experience for performing daily tasks, managing activities, and generating AI-driven content.
@@ -72,11 +68,6 @@ Here's a more professional and polished version of your GitHub project descripti
 
 ## **Contributing** 📂
 Contributions are welcome! Fork the repository, submit pull requests, or suggest features and improvements.  
-
----
-
-## **License** 📜
-This project is licensed under the **MIT License**. See the `LICENSE` file for more information.
 
 ---
 
