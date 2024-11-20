@@ -70,5 +70,3 @@
 Contributions are welcome! Fork the repository, submit pull requests, or suggest features and improvements.  
 
 ---
-
-This version uses formal symbols like ⚙️, 📂, and 📜 while maintaining a professional tone. Let me know if you'd like further tweaks!
