@@ -34,11 +34,11 @@
 
 1. **Clone the Repository**:  
    ```bash
-   git clone https://github.com/yourusername/friday-assistant.git
+   git clone https://github.com/dhrruvchotai/Friday
    ```
 2. **Install Dependencies**:  
    ```bash
-   pip install -r requirements.txt
+   pip install
    ```
 3. **Configure API Key**:  
    - Add your Hugging Face API key to a file named `Apikey.txt` in the root directory.
